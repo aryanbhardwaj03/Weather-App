@@ -23,10 +23,9 @@ When you search a city, it displays:
 
 ## How to use 🛠️
 
-1. Open `index.html` in your browser.  
-2. Enter the city name.  
-3. Click search or press Enter.  
-4. See the current weather and local time.  
+1. Enter the city name.  
+2. Click search or press Enter.  
+3. See the current weather and local time.  
 
 ---
 
