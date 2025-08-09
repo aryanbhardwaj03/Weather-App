@@ -10,7 +10,7 @@ When you search a city, it displays:
 
 - 🌡️ Temperature  
 - ☁️ Weather description  
-- 🕒 Local time of the city  
+- 🕒 Local time of the city/country
 
 ---
 
